@@ -15,6 +15,8 @@ In this project, we want to develop a 3D pose estimation technique for micro-lev
 * Repeat the training and testing of the Select Fusion Model with the 'Micro Movements Data' 
 * Generate more micro movements data using the HoloLens (if required) 
 
+Below tasks are low priority tasks for now and we'll do work 
+
 * Research new algorithms (besides Select Fusion) which could work for multiple camera at a time (Select Fusion only works with one camera images at one time) 
 * If possible, do the necessary changes in the video encoder section of Select Fusion to in-corporate depth images as well, this step could highly optimize the micro-movements tracking. 
 
