@@ -21,7 +21,21 @@ Below tasks are low priority tasks for now and we'll do work
 * If possible, do the necessary changes in the video encoder section of Select Fusion to in-corporate depth images as well, this step could highly optimize the micro-movements tracking. 
 
 ## System Blocks: 
+
+
 ## HW / SW Requirements: 
-## Team Members: 
+* Microsoft HoloLens to generate more data on micro-movement tracking (if required) for the training purposes 
+* A PC/Laptop with CUDA enabled GPUs or access to cloud resources with required GPUs 
+* Programming Language: Python 
+
+## Team: 
+Talha would be working on this project alone and is responsible for software setup, algorithm design, research and writing the final report. 
+
 ## Project Timeline: 
+
+
 ## References: 
+* SelectFusion: A Generic Framework to Selectively Learn Multisensory Fusion (https://arxiv.org/ pdf/1912.13077.pdf)
+* Learning to Fuse: A Deep Learning Approach to Visual-Inertial Camera Pose Estimation (https://ieeexplore.ieee.org/document/7781768)
+* Robust Pose Estimation for Outdoor Mixed Reality with Sensor Fusion (https://link.springer.com/ content/pdf/10.1007/978-3-642-02713-0_30.pdf)
+* OxIOD: The Dataset for Deep Inertial Odometry (https://arxiv.org/abs/1809.07491)
