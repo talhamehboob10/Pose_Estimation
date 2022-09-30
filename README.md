@@ -1,4 +1,4 @@
-# Pose_Estimation
+# Pose Estimation for Micro Movements in Mixed Reality
 
 ## Motivation:
 Mixed reality is the spatial alignment between the real world and virtual world. Physical and virtual objects may co-exist in mixed reality environments and interact in real time. At every given instance mixed reality systems needs to track user and real-world surroundings, to keep the illusion of “reality”. For tracking and spatial mapping of the real world objects, the multi modal sensor data is used and most of the existing techniques support the 'macro movements' generated from the head movement. But, there are limited techniques that focus on the 'micro movements' such as performing a surgery requiring micro level tracking of the hands. 
