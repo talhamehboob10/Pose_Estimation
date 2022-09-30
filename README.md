@@ -32,7 +32,8 @@ Below tasks are low priority tasks for now and we'll do work
 Talha would be working on this project alone and is responsible for software setup, algorithm design, research and writing the final report. 
 
 ## Project Timeline: 
-[Timeline.pdf](https://github.com/talhamehboob10/Pose_Estimation/files/9685950/Timeline.pdf)
+![Timeline](https://user-images.githubusercontent.com/39377184/193309073-3ad02ca8-547e-4957-bb00-e33995d01dc0.png)
+
 
 ## References: 
 * SelectFusion: A Generic Framework to Selectively Learn Multisensory Fusion (https://arxiv.org/ pdf/1912.13077.pdf)
