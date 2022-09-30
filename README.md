@@ -21,7 +21,7 @@ Below tasks are low priority tasks for now and we'll do work
 * If possible, do the necessary changes in the video encoder section of Select Fusion to in-corporate depth images as well, this step could highly optimize the micro-movements tracking. 
 
 ## System Blocks: 
-
+![Block Diagram](https://user-images.githubusercontent.com/39377184/193312370-4e190e94-2b5c-496c-addc-01edb3aed616.png)
 
 ## HW / SW Requirements: 
 * Microsoft HoloLens to generate more data on micro-movement tracking (if required) for the training purposes 
